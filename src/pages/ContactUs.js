@@ -10,7 +10,7 @@ function ContactUs() {
   const [submitted, setSubmitted] = useState(false)
 
   // ADD YOUR FORMSPREE URL HERE
-  const FORMSPREE_URL = 'https://formspree.io/f/mzzyrake'
+  const FORMSPREE_URL = 'sample'
 
   const handleSubmit = async (e) => {
     e.preventDefault()
