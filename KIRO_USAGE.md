@@ -347,6 +347,6 @@ Kiro AI IDE transformed the development process from writing code to describing 
 ---
 
 **Project:** CampusConnect  
-**Development Time:** 4-5 hours with Kiro (vs 15-21 hours manual)  
+**Development Time:** 10 hours with Kiro (vs 15-21 hours manual)  
 **Code Quality:** Production-ready  
 **Developer Experience:** Exceptional
