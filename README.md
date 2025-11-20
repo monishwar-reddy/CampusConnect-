@@ -91,14 +91,6 @@ A comprehensive AI-powered campus community platform that revolutionizes student
 - All data is stored in Supabase
 - Fully serverless architecture
 
-## 🎬 Demo Tips
-
-1. Show the spooky UI and animations
-2. Demonstrate AI moderation by posting content with words like "spam" or "fake"
-3. Show AI auto-tagging by creating posts about different topics
-4. Highlight the responsive design
-5. Show the search and filter functionality
-
 Good luck! 🎃👻
 
 You can contact me through my email (monishwar26413@gmail.com)
