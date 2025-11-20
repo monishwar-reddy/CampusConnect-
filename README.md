@@ -60,17 +60,19 @@ A comprehensive AI-powered campus community platform that revolutionizes student
 
 ## 🎯 Pages
 
-1. **Home** (`/`) - Browse all posts with search and filters
-2. **Create Post** (`/create`) - Create new posts
-3. **Post Detail** (`/post/:id`) - View post with comments
-4. **Profile** (`/profile`) - View your posts and profile
+1. **Home** - Browse all posts with search and filters
+2. **Create Post** - Create new posts
+3. **Post Detail** - View post with comments
+4. **Profile** View your posts and profile
+5. **Fun Game** Play Game
+6. **Contact Us** Contact page
 
 ## 🔑 How to Use
 
 1. **Login** - Click "Login" and enter any username (no password needed)
 2. **Create Post** - Go to "Create Post" and write your content
 3. **Browse** - Use search and category filters to find posts
-4. **Interact** - Like posts and add comments
+4. **Interact** - Use features, play game, Like posts and add comments 
 5. **AI Magic** - Posts are automatically moderated, tagged, and summarized
 
 ## 🎃 Halloween Theme
@@ -81,23 +83,6 @@ A comprehensive AI-powered campus community platform that revolutionizes student
 - Floating animations
 - Ghost effects on flagged content
 - Pulsing warnings
-
-## 🛠️ Features Checklist
-
-| Feature | Status | Importance |
-|---------|--------|------------|
-| AI Auto Moderation | ✅ Done | ⭐⭐⭐⭐⭐ |
-| AI Auto Tags | ✅ Done | ⭐⭐⭐⭐ |
-| AI Summary | ✅ Done | ⭐⭐⭐⭐ |
-| Dark Spooky UI | ✅ Done | ⭐⭐⭐⭐⭐ |
-| Animations | ✅ Done | ⭐⭐⭐⭐ |
-| Mobile Responsive | ✅ Done | ⭐⭐⭐⭐ |
-| Post Feed | ✅ Done | ⭐⭐⭐⭐⭐ |
-| Comments | ✅ Done | ⭐⭐⭐⭐ |
-| Likes | ✅ Done | ⭐⭐⭐ |
-| Search | ✅ Done | ⭐⭐⭐⭐ |
-| Categories | ✅ Done | ⭐⭐⭐⭐ |
-| User Profiles | ✅ Done | ⭐⭐⭐ |
 
 ## 📝 Notes
 
@@ -114,14 +99,6 @@ A comprehensive AI-powered campus community platform that revolutionizes student
 4. Highlight the responsive design
 5. Show the search and filter functionality
 
-## 🏆 Hackathon Ready
-
-This project is optimized for hackathon judging with:
-- ✅ Complete AI integration
-- ✅ Polished UI/UX
-- ✅ Unique Halloween theme
-- ✅ Full functionality
-- ✅ Mobile responsive
-- ✅ Clean code structure
-
 Good luck! 🎃👻
+
+You can contact me through my email (monishwar26413@gmail.com)
