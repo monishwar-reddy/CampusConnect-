@@ -1,8 +1,9 @@
 # 🎓 CampusConnect
 
 A comprehensive AI-powered platform that makes student life easier, smarter, and more fun.
-From AI moderation, auto-tagging, and summaries to a spooky dark UI, this is the ultimate campus community experience 
-Try It:
+From AI moderation, auto-tagging, and summaries to a spooky dark UI, this is the ultimate campus community experience.
+
+**Try It:**
 https://kiroween-bulletin.netlify.app/
 
 ## ✨ Features
